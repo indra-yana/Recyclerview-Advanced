@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerViewAdvanced</string>
+    <string name="lorem_ipsum_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum.</string>
+    <string name="title_lorem_ipsum">Lorem ipsum </string>
+    <string name="caption_text">Caption</string>
+    <string name="action_add_favourite">Add favourite</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_menu_simple_list">Simple List</string>
+    <string name="title_menu_list_to_grid">List to Grid</string>
+    <string name="title_menu_nested_list">Nested List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_simple_list_fragment">Fragment Simple List</string>
+    <string name="title_list_to_grid_fragment">Fragment List To Grid</string>
+    <string name="title_nested_list_fragment">Fragment Nested List</string>
+    <string name="action_list_to_grid">Change view</string>
+    <string name="title">Title</string>
+    <string name="title_more">More</string>
+</resources>
